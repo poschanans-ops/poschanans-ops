@@ -62,6 +62,7 @@ Success is the sum of small efforts, repeated day in and day out.
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poschanans-ops&layout=compact&theme=default&v=2)](https://github.com/poschanans-ops?tab=repositories)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=poschanans-ops&show_icons=true&theme=default&v=2)](https://github.com/poschanans-ops)
 
 ---
 
